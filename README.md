@@ -2,8 +2,11 @@
 This is a computer vision app leveraging the power of state-of-the-art YOLO algorithm on a custom dataset to detect brands of cars in images. The app has been deployed using streamlit.
 
 ## Dataset
-I downloaded a car brands dataset from Kaggle including images of 19 renowned car brands representing a mix of both high-end and mainstream car manufacturers. 
-Dataset Link: https://www.kaggle.com/datasets/alirezaatashnejad/over-20-car-brands-dataset
+I downloaded a car brands dataset from Kaggle including images of 19 renowned car brands representing a mix of both high-end and mainstream car manufacturers.
+
+Dataset Links: 
+* Kaggle - Original: https://www.kaggle.com/datasets/alirezaatashnejad/over-20-car-brands-dataset
+* Roboflow - Annotated Sample: https://universe.roboflow.com/datasets-hpoew/car-brand-detection-n6zpw/dataset/3
 
 The dataset contains images of the following car brands:
 1. Alpha Romeo

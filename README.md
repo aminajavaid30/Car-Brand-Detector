@@ -27,7 +27,7 @@ The dataset contains images of the following car brands:
 19. Toyota
 
 ## Image Annotations
-I took a sample of images from the dataset having 100 images from each car brand and annotated those images using roboflow - an image annotation tool.
+I took a sample of images from the dataset having 100 images from each car brand and annotated those images using roboflow - an image annotation tool. The dataset has been split into training and validation sets with 90% images for training and 10% images for validation.
 
 ## Model Training
 I used the state-of-the-art object detection algorithm YOLOv8 and trained the model on my custom dataset on 100 epochs.

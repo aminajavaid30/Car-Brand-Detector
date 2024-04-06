@@ -2,7 +2,7 @@
 This is a computer vision app leveraging the power of state-of-the-art YOLO algorithm on a custom dataset to detect brands of cars in images. The app has been deployed using streamlit.
 
 ## Dataset
-I downloaded a car brands dataset from Kaggle including images of 19 renowned car brands representing a mix of both high-end and mainstream manufacturers. 
+I downloaded a car brands dataset from Kaggle including images of 19 renowned car brands representing a mix of both high-end and mainstream car manufacturers. 
 Dataset Link: https://www.kaggle.com/datasets/alirezaatashnejad/over-20-car-brands-dataset
 
 The dataset contains images of the following car brands:

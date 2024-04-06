@@ -5,6 +5,27 @@ This is a computer vision app leveraging the power of state-of-the-art YOLO algo
 I downloaded a car brands dataset from Kaggle including images of 19 renowned car brands representing a mix of both high-end and mainstream manufacturers. 
 Dataset Link: https://www.kaggle.com/datasets/alirezaatashnejad/over-20-car-brands-dataset
 
+The dataset contains images of the following car brands:
+1. Alpha Romeo
+2. Audi
+3. Bentley
+4. Benz
+5. BMW
+6. Cadillac
+7. Dodge
+8. Ferrari
+9. Ford
+10. Ford Mustang
+11. Hyundai
+12. Kia
+13. Lamborghini
+14. Lexus
+15. Maserati
+16. Porsche
+17. Rolls Royce
+18. Tesla
+19. Toyota
+
 ## Image Annotations
 I took a sample of images from the dataset having 100 images from each car brand and annotated those images using roboflow - an image annotation tool.
 

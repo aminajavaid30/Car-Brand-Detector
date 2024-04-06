@@ -13,6 +13,8 @@ I used the state-of-the-art object detection algorithm YOLOv8 and trained the mo
 
 ## Model Performance
 
+<img src="validation_results.png">
+
 ### Overall Performance
 The model achieves a high mean Average Precision (mAP50) of 0.885 and mAP50-95 of 0.869 for all classes combined. This indicates that the model performs well in accurately detecting objects across all classes at different IoU thresholds.
 Precision and recall values for the combined classes (Box(P) and R) are 0.871 and 0.78 respectively, indicating a good balance between correctly identifying positive predictions (precision) and capturing all positive instances (recall).
